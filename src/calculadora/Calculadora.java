@@ -11,4 +11,16 @@ package calculadora;
  */
 public class Calculadora {
     
+    public double add(String num) {
+        String num1;
+        String num2;
+        
+        num1 = num.split(",")[0];
+        num2 = num.split(",")[1];
+        
+        return (Integer.getInteger(num1) + Integer.getInteger(num2));
+    }
+    
+    
+    
 }
