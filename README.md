@@ -1,3 +1,3 @@
 # CalculadoraTesteUnitario
 
-Guilherme e Tarik
+* Guilherme e Tarik
